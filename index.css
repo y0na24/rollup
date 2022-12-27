@@ -1,0 +1,9 @@
+body{
+  background-color: red;
+  color: yellow;
+}
+.js-image{
+  width: 400px;
+  height: 320px;
+  border-radius: 20px;
+}
